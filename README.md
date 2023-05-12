@@ -10,3 +10,6 @@ coming soon&tm;
 
 ## Jobs
 Freelance web designing jobs.
+
+## Things
+![](https://komarev.com/ghpvc/?username=disnos9&color=yellow&label=Cool+People) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
