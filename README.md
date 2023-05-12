@@ -1,12 +1,12 @@
 ## Who Am I
 - 👋 Hi, I’m @disnos9, founder of the Coding Club
 - 👀 I’m interested in developing websites and automated programs for chat websites
-- 🌱 I’m currently learning how to create a Discord bot
-- 💞️ I’m looking to create a Discord bot
+- 🌱 I’m currently learning HTML, CSS, and JavaScript more
+- 💞️ I’m making stuff for my school
 
 
 ## 📫 Contact Me
-Discord: paxtrain55#0270
+coming soon&tm;
 
 ## Jobs
-Not looking for a job. Creator of a coding club.
+Freelance web designing jobs.
