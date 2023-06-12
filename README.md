@@ -1,7 +1,7 @@
 # paxtrain55
 ye, im paxtrain55
 
-## how to explode 3 small children at the same time
+## how to exterminate the kids inside your basement
 woops this isn't googl!!!e!
 
 ## Things
