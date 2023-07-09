@@ -1,21 +1,43 @@
-# paxtrain55
-ye, im paxtrain55
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-## how to exterminate the kids inside your basement
-woops this isn't googl!!!e!
+### Hi there 👋 I am [paxtrain55](https://disnos9.github.io)
 
-## Things
-![](https://komarev.com/ghpvc/?username=disnos9&color=yellow&label=Cool+People) 
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=disnos9&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disnos9&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
 
-## Some Pins
-<a href="https://github.com/projectnomore/projectnomore.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectnomore&repo=projectnomore.github.io" />
-</a>
-<a href="https://github.com/mathgames69/mathgames69.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathgames66&repo=mathgames66.github.io" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
+<div>
+ <p>
+
+html, css, and js developer. good at the game. Mod @ GDM
+
+</h4>
+</div>
+
+<div><p>My profile overview: </p></div>
+
+![paxtrain55's github stats](https://github-readme-stats.vercel.app/api?username=disnos9&show_icons=true)
+<br />
+<br />
+<br />
+<details>
+<summary>
+  Projects I am currently working on
+</summary>
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=disnos9&repo=gdm-website)](https://github.com/disnos9/wbb-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=disnos9&repo=paxfr.xyz)](https://github.com/disnos9/paxfr.xyz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+
+<br />
+
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+</details>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=disnos9.disnos9)
