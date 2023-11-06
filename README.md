@@ -1,1 +1,1 @@
-# Owner of [CornBot](https://github.com/cornbot)
+# Owner of [CornBot](https://github.com/cornbotdiscord)
