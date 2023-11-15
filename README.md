@@ -1,5 +1,4 @@
 # hi, i'm dino.
-i also go by other names like [paxtrain55](https://youtube.com/@paxtrain55)<br><br><Br><br><br>
+i do multiple things, like create cool projects, find exploits, and more. if you are a student, check out [GitHub student developer pack! it gives you over $10,000+ in benefits](https://education.github.com/pack) including GitHub Pro for free!<br><br>
 
-I'm a developer that's still in school!<br><br><br><br>
-[![disnos9's GitHub stats](https://github-readme-stats.vercel.app/api?username=disnos9)](https://github.com/anuraghazra/github-readme-stats)
+Honestly I came here today thinking I would know what to type. I have no clue what to write. whatever lol
