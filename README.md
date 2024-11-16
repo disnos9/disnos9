@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on [iBallexus](https://discord.gg/iballexus)
 
+- 👶 I'm the owner of [Peretas Technologies](https://discord.gg/peretas)
+
+- 💀 Also the owner of the DEV Guild on Discord, invite link in Peretas server
+
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **mike@peretas.tech**
